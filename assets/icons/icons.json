@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/melostagma-logo.svg"
+ },
+ "source_md5": "5dfa648e9f570fc93dbe465e282b5470",
+ "version": "c04c404f",
+ "tile": "#FBF6EC",
+ "crop": "0.005,0.0,0.215,0.62",
+ "header": [
+  "inline",
+  "index.html",
+  "d1e02640dfd0c03ff9c10b9de9dfa839"
+ ],
+ "made": "2026-11-11"
+}
